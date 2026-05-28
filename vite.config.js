@@ -5,7 +5,7 @@ import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/G10-ONE-AI-FOR-TECH-LAD-SITE/',
+  base: '/tech-builder-latam/',
   plugins: [
     react(),
     tailwindcss(),
